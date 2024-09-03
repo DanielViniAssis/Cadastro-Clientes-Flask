@@ -1,2 +1,6 @@
 *_pycache__
 *.venv
+*.pyc
+customermanager.db
+.env
+banco.json
